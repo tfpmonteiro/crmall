@@ -1,0 +1,6 @@
+D:\Fonts\crmall\crmall\crmall.Service\obj\Debug\netcoreapp3.0\crmall.Service.csprojAssemblyReference.cache
+D:\Fonts\crmall\crmall\crmall.Service\obj\Debug\netcoreapp3.0\staticwebassets\crmall.Service.StaticWebAssets.Manifest.cache
+D:\Fonts\crmall\crmall\crmall.Service\obj\Debug\netcoreapp3.0\staticwebassets\crmall.Service.StaticWebAssets.xml
+D:\Fonts\crmall\crmall\crmall.Service\obj\Debug\netcoreapp3.0\crmall.Service.MvcApplicationPartsAssemblyInfo.cache
+D:\Fonts\crmall\crmall\crmall.Service\obj\Debug\netcoreapp3.0\crmall.Service.AssemblyInfoInputs.cache
+D:\Fonts\crmall\crmall\crmall.Service\obj\Debug\netcoreapp3.0\crmall.Service.AssemblyInfo.cs
